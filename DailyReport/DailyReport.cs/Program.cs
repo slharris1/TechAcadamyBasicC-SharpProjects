@@ -36,7 +36,8 @@ namespace DailyReport.cs
 
             //Asks the student if they need help. 
             Console.WriteLine("Do you need help with anything? Please answer 'true' or 'false'.");
-            string studentHelp = Console.ReadLine();
+            string studentHelp = "true";
+            bool value = Convert.ToBoolean(studentHelp)
             Console.WriteLine("Thank you for your response.");
             Console.ReadLine();
 
