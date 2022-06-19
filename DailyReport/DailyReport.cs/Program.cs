@@ -33,11 +33,11 @@ namespace DailyReport.cs
             int yourPage = Convert.ToInt32(pageNumber);
             Console.WriteLine("Keep up the good work! Nice progress to page " + pageNumber);
             Console.ReadLine();
-
+            
             //Asks the student if they need help. 
             Console.WriteLine("Do you need help with anything? Please answer 'true' or 'false'.");
-            string studentHelp = "true";
-            bool value = Convert.ToBoolean(studentHelp)
+            string studentHelp = Console.ReadLine();
+            bool value = Convert.ToBoolean(studentHelp);
             Console.WriteLine("Thank you for your response.");
             Console.ReadLine();
 
