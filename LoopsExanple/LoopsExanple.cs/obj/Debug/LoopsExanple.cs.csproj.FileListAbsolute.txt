@@ -1,0 +1,7 @@
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\LoopsExanple\LoopsExanple.cs\bin\Debug\LoopsExanple.cs.exe.config
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\LoopsExanple\LoopsExanple.cs\bin\Debug\LoopsExanple.cs.exe
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\LoopsExanple\LoopsExanple.cs\bin\Debug\LoopsExanple.cs.pdb
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\LoopsExanple\LoopsExanple.cs\obj\Debug\LoopsExanple.cs.csproj.AssemblyReference.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\LoopsExanple\LoopsExanple.cs\obj\Debug\LoopsExanple.cs.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\LoopsExanple\LoopsExanple.cs\obj\Debug\LoopsExanple.cs.exe
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\LoopsExanple\LoopsExanple.cs\obj\Debug\LoopsExanple.cs.pdb
