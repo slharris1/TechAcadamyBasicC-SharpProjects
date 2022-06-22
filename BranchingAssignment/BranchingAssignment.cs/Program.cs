@@ -39,9 +39,19 @@ namespace BranchingAssignment.cs
             int packageDimensions = packageHeight * packageLength * packageWidth;
             int package = packageDimensions * packageWeight;
             int packageQuote = package / 100;
-                        
-            Console.WriteLine("Your total is : $" + packageQuote);
-            Console.ReadLine();
+            
+            if (packageDimensions > 50)
+            {
+                Console.WriteLine("Package is too big to be shipped via Package Express. Have a good day!");
+                Console.ReadLine();
+                Environment.Exit(0);
+            }
+            else
+            {
+                Console.WriteLine("Your total is : $" + packageQuote);
+                Console.ReadLine();
+            }
+            
             
         }
     }
