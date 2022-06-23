@@ -1,0 +1,7 @@
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\ArraySubmission\ArraySubmission.cs\bin\Debug\ArraySubmission.cs.exe.config
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\ArraySubmission\ArraySubmission.cs\bin\Debug\ArraySubmission.cs.exe
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\ArraySubmission\ArraySubmission.cs\bin\Debug\ArraySubmission.cs.pdb
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\ArraySubmission\ArraySubmission.cs\obj\Debug\ArraySubmission.cs.csproj.AssemblyReference.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\ArraySubmission\ArraySubmission.cs\obj\Debug\ArraySubmission.cs.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\ArraySubmission\ArraySubmission.cs\obj\Debug\ArraySubmission.cs.exe
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\ArraySubmission\ArraySubmission.cs\obj\Debug\ArraySubmission.cs.pdb
