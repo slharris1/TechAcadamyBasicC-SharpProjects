@@ -66,50 +66,56 @@ namespace ArrayIteration.cs
             Console.WriteLine("Please enter a month of the summer. ");
             string userMonth = Console.ReadLine();
            
-            foreach (string month in months)
-            {
-                if (userMonth == month)
+             if (months.Contains(userMonth))
+             { for (int s = 0; s < months.Count; s++)
+
                 {
-                    Console.WriteLine(Convert.ToInt32(month));
-                    Console.ReadLine();
-                }
-                else
-                {
-                    Console.WriteLine("Please try again.");
-                    Console.WriteLine("Please enter a month of the year");
-                    Console.ReadLine();
-                }
+                    if (months[s] == userMonth)
+                    {
+                        Console.WriteLine(s);                        
+                    }
+                }  
             }
+            else
+            {
+                Console.WriteLine("You did something wrong. Try again.");
+            }
+            Console.ReadLine();
 
             //Console App Part Five: A list of strings that has at least two identical strings and ask the user to select text to search for in the list. create a loop that iterates through the list then displays the indecies of the items. 
-            List<string> names = new List<string>() { "James", "Travis", "Noah", "Travis", "Kyle"};
-            Console.WriteLine("");
+            List<string> names = new List<string>() { "James", "Travis", "Noah", "Travis", "Kyle" };
+            Console.WriteLine("Enter the name Travis");
             string userResponse = Console.ReadLine();
-
-            foreach (string name in names)
+            if (names.Contains(userResponse))
             {
-                if (userResponse = name.Contains("T"))
+                for (int n = 0; n < names.Count; n++)
                 {
-                    Console.WriteLine(name.IndexOfAny);
-                    Console.ReadLine();
-                }
-                else
-                {
-                    Console.WriteLine("Please try again.");
-                    Console.WriteLine("Please enter a month of the year");
-                    Console.ReadLine();
+                    if (names[n] == userResponse)
+                    {
+                        Console.WriteLine(n);                     
+                    }
+
                 }
             }
-
+            else
+            {
+                Console.WriteLine("You did something wrong. Try again.");                
+            }
+            Console.ReadLine();
             //Console App Part Six: 
             List<string> colors = new List<string>() { "blue", "lime", "pink", "blue" };
+            List<string> pastelColors = new List<string>();
 
             foreach (string color in colors)
             {
-                if (!color.Contains(color))//states that if the list contains a duplicate color to print to the console. 
+                if (color == "blue")//states that if the list contains a duplicate color to print to the console. 
+                {
+                    pastelColors.Add(color);
+                }
+                else
                 {
                     Console.WriteLine("This color is already listed.");
-                    Console.ReadLine(); 
+                    Console.ReadLine();
                 }
 
                     
