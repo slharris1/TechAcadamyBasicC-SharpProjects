@@ -29,6 +29,16 @@ namespace StringAndIntegerAssignment.cs
                     Console.ReadLine();
                 }
             }
+            catch (FormatException ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.ReadLine();
+            }
+            catch (DivideByZeroException ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.ReadLine();
+            }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
