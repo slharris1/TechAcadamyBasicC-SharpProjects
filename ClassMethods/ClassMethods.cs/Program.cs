@@ -27,7 +27,7 @@ namespace ClassMethods.cs
 
             //Example Three: 
             ClassOne overload = new ClassOne();
-            int sum1 = overload.Multiply(10, 5);
+            int sum1 = overload.Example1(10, 5);
             Console.WriteLine(sum1);
             Console.ReadLine();
 

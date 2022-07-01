@@ -25,9 +25,9 @@ namespace ClassMethods.cs
         }
 
         //Example Three: 
-        public int Multiply (int a, int b)
+        public int Example1 (int a, int b, int c = 5)
         {
-            int sum1 = a * b;
+            int sum1 = (int)(a * b +  c);
             return sum1;
         }
         
