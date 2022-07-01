@@ -1,0 +1,7 @@
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\AbstractClasses\AbstractClasses.cs\bin\Debug\AbstractClasses.cs.exe.config
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\AbstractClasses\AbstractClasses.cs\bin\Debug\AbstractClasses.cs.exe
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\AbstractClasses\AbstractClasses.cs\bin\Debug\AbstractClasses.cs.pdb
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\AbstractClasses\AbstractClasses.cs\obj\Debug\AbstractClasses.cs.csproj.AssemblyReference.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\AbstractClasses\AbstractClasses.cs\obj\Debug\AbstractClasses.cs.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\AbstractClasses\AbstractClasses.cs\obj\Debug\AbstractClasses.cs.exe
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\AbstractClasses\AbstractClasses.cs\obj\Debug\AbstractClasses.cs.pdb
