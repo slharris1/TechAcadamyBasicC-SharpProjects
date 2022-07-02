@@ -10,14 +10,15 @@ namespace AbstractClasses.cs
     {
         public override void SayName()
         {
-            base.SayName();
+            Console.WriteLine("Name: {0}", firstName + " " + lastName);            
         }
-
+        
 
         public void Quit()
         {
             throw new NotImplementedException();
         }
+        
     }
 }
  
