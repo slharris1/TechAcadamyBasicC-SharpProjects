@@ -16,7 +16,7 @@ namespace AbstractClasses.cs
 
         public void Quit()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Employee has Quit");
         }
         
     }
