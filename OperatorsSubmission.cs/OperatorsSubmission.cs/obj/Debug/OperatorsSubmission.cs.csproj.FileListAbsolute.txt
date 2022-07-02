@@ -1,0 +1,7 @@
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\OperatorsSubmission.cs\OperatorsSubmission.cs\bin\Debug\OperatorsSubmission.cs.exe.config
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\OperatorsSubmission.cs\OperatorsSubmission.cs\bin\Debug\OperatorsSubmission.cs.exe
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\OperatorsSubmission.cs\OperatorsSubmission.cs\bin\Debug\OperatorsSubmission.cs.pdb
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\OperatorsSubmission.cs\OperatorsSubmission.cs\obj\Debug\OperatorsSubmission.cs.csproj.AssemblyReference.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\OperatorsSubmission.cs\OperatorsSubmission.cs\obj\Debug\OperatorsSubmission.cs.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\OperatorsSubmission.cs\OperatorsSubmission.cs\obj\Debug\OperatorsSubmission.cs.exe
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\OperatorsSubmission.cs\OperatorsSubmission.cs\obj\Debug\OperatorsSubmission.cs.pdb
