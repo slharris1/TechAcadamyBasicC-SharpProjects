@@ -1,0 +1,2 @@
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\LambdaExpression\LambdaExpression.cs\obj\Debug\LambdaExpression.cs.csproj.AssemblyReference.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\LambdaExpression\LambdaExpression.cs\obj\Debug\LambdaExpression.cs.csproj.CoreCompileInputs.cache
