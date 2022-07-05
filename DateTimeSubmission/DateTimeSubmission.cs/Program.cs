@@ -17,7 +17,7 @@ namespace DateTimeSubmission.cs
             Console.WriteLine("Please enter an number");
             int userResponse = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(dateTime.AddHours(userResponse));
+            Console.WriteLine(DateTime.Now.AddHours(userResponse));
             Console.ReadLine();
         }
     }
