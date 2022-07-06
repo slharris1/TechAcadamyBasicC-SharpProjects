@@ -1,0 +1,7 @@
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\Constructor\Constructor.cs\bin\Debug\Constructor.cs.exe.config
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\Constructor\Constructor.cs\bin\Debug\Constructor.cs.exe
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\Constructor\Constructor.cs\bin\Debug\Constructor.cs.pdb
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\Constructor\Constructor.cs\obj\Debug\Constructor.cs.csproj.AssemblyReference.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\Constructor\Constructor.cs\obj\Debug\Constructor.cs.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\Constructor\Constructor.cs\obj\Debug\Constructor.cs.exe
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\Constructor\Constructor.cs\obj\Debug\Constructor.cs.pdb

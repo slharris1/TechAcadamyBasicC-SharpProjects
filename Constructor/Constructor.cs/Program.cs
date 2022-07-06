@@ -15,9 +15,30 @@ namespace Constructor.cs
             Console.WriteLine(projectName);
 
             var age = 27;
-            Console.WriteLine(age + 5);
-
-                  
+            Console.WriteLine(age + 6);                             
         }
+
+        public string name;
+        public int location;
+
+        public Program () : this("Troy", 0)
+        {
+
+        }
+        public Program (string name, int location)
+        {
+            this.name = name;
+            this.location = location;
+        }
+        public Program(string name) : this(name, 0)
+        {
+
+        }
+        public Program(int location) : this("Troy", location)
+        {
+
+        }
+
+
     }
 }
