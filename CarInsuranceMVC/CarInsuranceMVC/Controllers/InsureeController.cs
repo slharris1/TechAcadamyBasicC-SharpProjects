@@ -69,17 +69,17 @@ namespace CarInsuranceMVC.Controllers
             insuree.Quote = 50;
             var age = DateTime.Today.Year - insuree.DateOfBirth.Year;
 
-            if (DateTime.Now.Year - age < 18)
+            if (age < 18)
             {
                 insuree.Quote += 100;
             }
 
-            if (DateTime.Now.Year - age >= 19 && age <= 25)
+            if (age >= 19 && age <= 25)
             {
                 insuree.Quote += 50;
             }
 
-            if (DateTime.Now.Year - age > 25)
+            if (age > 25)
             {
                 insuree.Quote += 25;
             }
@@ -89,7 +89,7 @@ namespace CarInsuranceMVC.Controllers
                 insuree.Quote += 25;
             }
 
-            if (insuree.CarYear > 2014)
+            if (insuree.CarYear > 2015)
             {
                 insuree.Quote += 25;
             }
