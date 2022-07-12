@@ -67,27 +67,29 @@ namespace CarInsuranceMVC.Controllers
         public decimal GetQuote(Table insuree)
         {
             insuree.Quote = 50;
-            if (DateTime.Now.Year - insuree.DateOfBirth.Year < 18)
+            var age = DateTime.Today.Year - insuree.DateOfBirth.Year;
+
+            if (DateTime.Now.Year - age < 18)
             {
                 insuree.Quote += 100;
             }
 
-            if (DateTime.Now.Year - insuree.DateOfBirth.Year >= 19 && insuree.DateOfBirth.Year <= 25)
+            if (DateTime.Now.Year - age >= 19 && age <= 25)
             {
                 insuree.Quote += 50;
             }
 
-            if (DateTime.Now.Year - insuree.DateOfBirth.Year > 25)
+            if (DateTime.Now.Year - age > 25)
             {
                 insuree.Quote += 25;
             }
 
-            if (DateTime.Now.Year - insuree.CarYear > 2000)
+            if (insuree.CarYear > 2000)
             {
                 insuree.Quote += 25;
             }
 
-            if (DateTime.Now.Year - insuree.CarYear > 2014)
+            if (insuree.CarYear > 2014)
             {
                 insuree.Quote += 25;
             }
