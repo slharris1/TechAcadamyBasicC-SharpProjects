@@ -15,7 +15,7 @@ namespace FinalProjectSubmission
             {
                var student = new Student() { FirstName = "Shalena", LastName = "Bailey" };
 
-                ctx.Student.Add(student);
+                ctx.Students.Add(student);
                 ctx.SaveChanges();
             }
         }
@@ -35,6 +35,7 @@ namespace FinalProjectSubmission
         {
 
         }
-        public Dbset<Student> Student { get; set; }
+
+        public DbSet<Student> Students { get; set; }
     }
 }
