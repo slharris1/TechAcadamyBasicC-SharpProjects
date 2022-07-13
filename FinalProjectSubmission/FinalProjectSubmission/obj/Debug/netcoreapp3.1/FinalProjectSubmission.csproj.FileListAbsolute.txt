@@ -1,0 +1,5 @@
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\FinalProjectSubmission\FinalProjectSubmission\obj\Debug\netcoreapp3.1\FinalProjectSubmission.csproj.AssemblyReference.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\FinalProjectSubmission\FinalProjectSubmission\obj\Debug\netcoreapp3.1\FinalProjectSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\FinalProjectSubmission\FinalProjectSubmission\obj\Debug\netcoreapp3.1\FinalProjectSubmission.AssemblyInfoInputs.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\FinalProjectSubmission\FinalProjectSubmission\obj\Debug\netcoreapp3.1\FinalProjectSubmission.AssemblyInfo.cs
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\FinalProjectSubmission\FinalProjectSubmission\obj\Debug\netcoreapp3.1\FinalProjectSubmission.csproj.CoreCompileInputs.cache
